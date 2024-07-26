@@ -1,3 +1,3 @@
 # fix-whatsapp
 
-Click bagian release
+Click bagian releases
